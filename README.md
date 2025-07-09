@@ -1,4 +1,3 @@
-source ~/.nvm/nvm.sh
 
 ## Run the app
 
